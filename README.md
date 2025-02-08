@@ -4,7 +4,7 @@ Jude Kiron Mensah is the name<br>
 Co-Founder and CTO of [Roomberl](https://roomberl.com)<br>
 Computer Science and Statistics student at the university of Ghana<br>
 Aspiring Software Developer<br>
-Interested in Blockchain and AI too
+Interested in Blockchain and AI too<br>
 ⚡ Fun fact: Most people say I'm crazy🙃
 
 
